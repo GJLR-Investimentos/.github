@@ -1,4 +1,5 @@
-<h1> Inteligência artificial na bolsa de valores </h1>
+<h1> GJLR Investimentos </h1>
+<img src="https://raw.githubusercontent.com/GJLR-Investimentos/.github/main/profile/logo2.png"></img>
 <br/>
 <p>
 Com o crescimento dos investidores brasileiros, atualmente, em busca de retornos financeiros, há diversos grupos de usuários investindo na bolsa de valores, assim há a necessidade de ajudar usuários leigos no assunto ou até mesmo ajudar usuários veteranos a investir com maior facilidade e rapidez.
