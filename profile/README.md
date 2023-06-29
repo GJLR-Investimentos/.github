@@ -1,4 +1,6 @@
-<h1> GJLR Investimentos </h1>
+<h1> GJLR – Indicador de Investimentos Inteligente 
+desenvolvido com SAX
+ </h1>
 <p align="center"><img src="https://raw.githubusercontent.com/GJLR-Investimentos/.github/main/profile/logo2.png" width="550"></img></p>
 <br/>
 <p>
